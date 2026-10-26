@@ -5,9 +5,9 @@ build/
 test-results/
 playwright-report/
 .playwright/
-.env
 .env*.local
 *.log
 .DS_Store
 .vercel
 *.tsbuildinfo
+config.bat
